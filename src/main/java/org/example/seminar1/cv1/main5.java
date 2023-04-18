@@ -1,6 +1,6 @@
-package workshop.task5;
+package org.example.seminar1.cv1;
 
-public class main {
+public class main5 {
 
     /* +Задано уравнение вида q + w = e, q, w, e >= 0. Некоторые цифры могут быть заменены знаком
         вопроса, например,  2? + ?5 = 69. Требуется восстановить выражение до верного равенства.

@@ -1,4 +1,4 @@
-package workshop.task4;
+package org.example.seminar1.cv1;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
     Реализовать простой калькулятор
  */
 
-public class main {
+public class main4 {
     public static void main(String[] args) {
         double num1;
         double num2;

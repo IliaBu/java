@@ -1,10 +1,10 @@
-package workshop.task3;
+package org.example.seminar1.cv1;
 
 /*
     Вывести все простые числа от 1 до 1000
 */
 
-public class main {
+public class main3 {
     public static void main(String[] args) {
         System.out.println(primeNumbers());
     }
