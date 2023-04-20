@@ -21,8 +21,8 @@ public class main {
 
     /**
      *
-     * @param scanner сумма положительных, после которых следует отрицательное число
-     * @return
+     * @param scanner ввод чисел
+     * @return сумму положительных чисел, после которых следует отрицательное число
      */
     public static int summDiff(Scanner scanner) {
         int a = scanner.nextInt();
