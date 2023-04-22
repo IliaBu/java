@@ -13,7 +13,6 @@ import java.util.Scanner;
 
 public class main {
     public static void main(String[] args) {
-       // int arr[] = {1, 2, 1, 2, -1, 1, 3, 1, 3, -1, 0};
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите номера: ");
         System.out.println(summDiff(scanner));
